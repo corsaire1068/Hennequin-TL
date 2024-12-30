@@ -125,7 +125,7 @@ campaignTrail_temp.questions_json = [
         "pk": 1219,
         "fields": {
             "priority": 8,
-            "description": "Do you support the plans of some in your party to expand the size of the Supreme Court, in order to counteract the R Beyond the political regime, it's French foreign policy that could well be changed with this election, since Concile talks of detente with NATO, while you talk of strengthening your alliance with the Russians of United Russia and the British Communists. epublicans' actions in regard to Merrick Garland and Amy Coney Barret?",
+            "description": "Beyond the political regime, it's French foreign policy that could well be changed with this election, since Concile talks of detente with NATO, while you talk of strengthening your alliance with the Russians of United Russia and the British Communists. ",
             "likelihood": 1
         }
     },
